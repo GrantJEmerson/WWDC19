@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Dompel</string>
+	<key>ContentIdentifier</key>
+	<string>com.821Apps.DompelPlaygroundBook</string>
+	<key>ContentVersion</key>
+	<string>1</string>
+	<key>ImageReference</key>
+	<string>DompelIcon.png</string>
+	<key>DeploymentTarget</key>
+	<string>ios11.0</string>
+	<key>SwiftVersion</key>
+	<string>4.2</string>
+	<key>MinimumSwiftPlaygroundsVersion</key>
+	<string>2.2</string>
+	<key>Chapters</key>
+	<array>
+		<string>Dompel.playgroundchapter</string>
+	</array>
+</dict>
+</plist>
